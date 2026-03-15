@@ -1,0 +1,18 @@
+{
+  "squat_jump": {
+    "title": "Прыжок из приседа",
+    "reference_video": "references/squat_jump.mp4",
+    "important_joints": {
+      "hip": 2.0,
+      "knee": 2.0,
+      "ankle": 1.5,
+      "torso": 1.5,
+      "shoulder": 1.0,
+      "elbow": 0.8
+    },
+    "tips_thresholds_deg": {
+      "minor": 10,
+      "major": 20
+    }
+  }
+}
